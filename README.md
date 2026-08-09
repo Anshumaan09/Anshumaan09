@@ -23,4 +23,4 @@ I’m passionate about building AI-powered applications, especially in RAG (Retr
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Anshumaan09"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshumaan09&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Anshumaan09"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshumaan09&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
