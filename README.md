@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================================
 
 Agentic AI Developer
---------------------
+---------------------
 
 I’m passionate about building AI-powered applications, especially in RAG (Retrieval-Augmented Generation), Agentic AI, LangGraph, FastAPI, and Streamlit.
 
